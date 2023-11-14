@@ -1,0 +1,7 @@
+# Overall introduction
+
+The goal of this series of practicles is to build a geomagnetic field model (here a spatial interpollation) from magnetic observations collected in low Earth-orbiting satellites. 
+
+Such field models may be used for orientation with a compass (hiking, flights, directional drilling...). 
+It is also a 1st step to know about our Earth's environment with applications to space weather, knowledge about deep Earth processes, or if going further back in time: isotopic dating, etc.
+
